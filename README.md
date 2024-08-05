@@ -1,6 +1,6 @@
 ### BOAS VINDA AO MEU PERFIL
 
-MEU NOME E vITOR
+MEU NOME É Vitor
 
 Estou estudando na Alura
 Estou me desenvolvendo na linguagem JavaScript
